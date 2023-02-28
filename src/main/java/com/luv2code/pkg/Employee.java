@@ -1,3 +1,5 @@
+package com.luv2code.pkg;
+
 public class Employee {
   public int employeeId;
   public String employeeName;

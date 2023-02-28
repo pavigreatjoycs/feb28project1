@@ -9,5 +9,15 @@ public class Employee {
   public String getEmployeeName(){
     return this.employeeName;
   }
+
+public void setEmployeeId(int employeeId) {
+	this.employeeId = employeeId;
+}
+
+public void setEmployeeName(String employeeName) {
+	this.employeeName = employeeName;
+}
+  
+  
   
 }
